@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Expenso</string>
+    <string name="app_name">Bite</string>
     <string name="text_save_transaction">Save Transaction</string>
     <string name="text_ui_mode">UI Mode</string>
     <string name="text_total_income">Total Income</string>
@@ -33,7 +33,7 @@
     <string name="text_about_license_title"><![CDATA[Attributions & License]]></string>
     <string name="text_about_license">Licensed Under Apache 2.0 License</string>
     <string name="text_about_visit_title">Visit</string>
-    <string name="text_about_visit_url"><u>https://github.com/Spikeysanju/Expenso</u></string>
+    <string name="text_about_visit_url"><u>https://github.com/aosp-mirror</u></string>
     <string name="text_app_version">v%s (%d)</string>
     <string name="text_share_as_text">Share as Text</string>
     <string name="text_share_as_image">Share as Image</string>

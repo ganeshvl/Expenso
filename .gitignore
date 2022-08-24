@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+.idea/coverity.xml
+FETCH_HEAD
+config
+description
+HEAD

@@ -8,14 +8,14 @@ import javax.inject.Inject
 
 @HiltViewModel
 class AboutViewModel @Inject constructor() : ViewModel() {
-    private val _url = MutableStateFlow("https://github.com/Spikeysanju/Expenso")
+    private val _url = MutableStateFlow("https://github.com/aosp-mirror")
     val url: StateFlow<String> = _url
 
     fun launchLicense() {
-        _url.value = "https://github.com/Spikeysanju/Expenso/blob/master/LICENSE"
+        _url.value = "https://github.com/aosp-mirror"
     }
 
     fun launchRepository() {
-        _url.value = "https://github.com/Spikeysanju/Expenso"
+        _url.value = "https://github.com/aosp-mirror"
     }
 }
